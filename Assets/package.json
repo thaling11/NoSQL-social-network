@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.0",
+    "node-modules": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
