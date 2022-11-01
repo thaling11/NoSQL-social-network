@@ -1,4 +1,4 @@
-# 18 NoSQL: Social Network API
+# NoSQL: Social Network API
 
 ## Description
 
@@ -13,5 +13,9 @@ SO THAT my website can handle large amounts of unstructured data
 ```
 
 ## Walkthrough video
+
+https://drive.google.com/file/d/1pNfPsOmJlV7M9HhYLIyUTyGmSjpaF8jH/view
+
+![walkthrough video](./Assets/images/walkthrough.jpg)
 
 
